@@ -1,0 +1,7 @@
+⚠️ Medium Risk
+
+* ⚠️ High:  Aggressive poll watching, potentially targeting minority voters.
+* ⚠️ Medium:  Underpaid election directors correlate with increased incidents.
+* ⚠️ Medium:  Racial gerrymandering allegations suggest suppression.
+* ⚠️ Medium: Underfunded counties show lower turnout, suggesting neglect.
+* ✅ Low:  Past voting history features less prominently than other factors.

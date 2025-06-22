@@ -1,0 +1,8 @@
+✅ Low Risk
+
+* ✅ Low:  Past voter turnout (voted_2020, voted_2016) correlates with predicted suppression risk, but this is expected.
+* ⚠️ Medium:  Democratic voter affiliation (voter_party_code_DEM) as a feature suggests potential partisan targeting, needing monitoring.
+* ⚠️ High: Poll worker intimidation (factual findings) indicates a direct threat to fair elections and voter access.
+* ⚠️ Medium: Underpaid election officials (factual findings) may lead to administrative failures affecting voter access, warranting attention.
+* ⚠️ Medium:  Racial data (race_BLACK, race_UNDESIGNATED) in the model signals possible discriminatory practices, requiring further investigation.
+

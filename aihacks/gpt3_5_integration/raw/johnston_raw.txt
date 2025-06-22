@@ -1,0 +1,13 @@
+JOHNSTON - Risk Score: 0.554
+Top 10 Most Important Features:
+ 1. voted_2020_w                             0.0279
+ 2. voted_2020                               0.0275
+ 3. race_UNDESIGNATED                        0.0086
+ 4. voter_party_code_DEM_w                   0.0083
+ 5. voter_party_code_DEM                     0.0048
+ 6. age                                      0.0047
+ 7. voted_2016                               0.0046
+ 8. voted_2016_w                             0.0045
+ 9. voter_party_code_REP_w                   0.0041
+10. gender_M                                 0.0029
+

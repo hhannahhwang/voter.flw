@@ -1,0 +1,13 @@
+BLADEN - Risk Score: 0.665
+Top 10 Most Important Features:
+ 1. voted_2020_w                             0.0357
+ 2. voted_2020                               0.0338
+ 3. voter_party_code_DEM_w                   0.0131
+ 4. age                                      0.0094
+ 5. race_BLACK or AFRICAN AMERICAN           0.0085
+ 6. voter_party_code_DEM                     0.0083
+ 7. voted_2016_w                             0.0071
+ 8. voted_2016                               0.0070
+ 9. gender_M                                 0.0039
+10. voter_party_code_REP_w                   0.0038
+

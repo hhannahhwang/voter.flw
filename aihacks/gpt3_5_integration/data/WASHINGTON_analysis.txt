@@ -1,0 +1,8 @@
+⚠️ Medium Risk
+
+* ⚠️ High:  Poll worker intimidation risks suppressing vulnerable groups' votes.
+* ⚠️ Medium:  Low-paid election directors increase administrative errors and lower turnout.
+* ⚠️ Medium:  Racial gerrymandering dilutes Black voter power, potentially suppressing votes.
+* ⚠️ Medium:  Features like past voting history disproportionately affect infrequent voters.
+* ✅ Low: Gender appears to have minimal impact on suppression risk in this model.
+

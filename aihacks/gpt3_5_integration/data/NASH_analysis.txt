@@ -1,0 +1,7 @@
+⚠️ Medium Risk
+
+* ⚠️ High:  Poll worker intimidation risks suppressing votes, especially in minority communities.
+* ⚠️ Medium:  Lower voter turnout in underfunded counties suggests administrative neglect.
+* ⚠️ Medium:  Features like `voted_2020` and party affiliation suggest targeting specific groups.
+* ✅ Low:  While racial features appear, their low weights suggest minimal direct suppression.
+

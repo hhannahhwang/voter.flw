@@ -1,0 +1,7 @@
+✅ Low Risk
+
+* ✅ Low:  Past voter turnout (voted_2020, voted_2016) weakly predicts suppression.
+* ⚠️ Medium: Poll worker intimidation (factual finding) suggests potential suppression.
+* ⚠️ Medium: Underpaid election officials (factual finding) may hinder access.
+* ⚠️ Medium:  Racial targeting (race_UNDESIGNATED) warrants monitoring.
+* ✅ Low:  Other features (age, party affiliation, gender) show minimal impact.

@@ -1,0 +1,8 @@
+1. ⚠️ Medium Risk
+
+* ⚠️ High:  Poll worker intimidation (factual finding) suggests suppression.
+* ⚠️ Medium:  Targeting of Democratic voters shown by model features.
+* ⚠️ Medium: Low pay for election directors (factual finding) impacts capacity.
+* ⚠️ Medium:  Features suggest potential racial targeting of Black voters.
+* ✅ Low: Age as a feature is not strong evidence of suppression.
+

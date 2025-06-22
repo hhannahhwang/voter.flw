@@ -1,0 +1,7 @@
+⚠️ Medium Risk
+
+* ⚠️ High:  Poll worker intimidation, documented in findings, directly suppresses voting.
+* ⚠️ Medium:  Features `voted_2020_w`, `voted_2020`, suggest targeting repeat voters.
+* ⚠️ Medium: `race_UNDESIGNATED` and `race_BLACK` hint at potential racial targeting.
+* ⚠️ Medium: Low pay for election directors correlates with less experience and higher incident reports.
+* ✅ Low:  Partisan poll observer increase, while concerning, lacks direct suppression evidence.

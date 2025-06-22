@@ -1,0 +1,13 @@
+GASTON - Risk Score: 0.723
+Top 10 Most Important Features:
+ 1. voted_2020_w                             0.0362
+ 2. voted_2020                               0.0344
+ 3. race_UNDESIGNATED                        0.0153
+ 4. voter_party_code_DEM_w                   0.0114
+ 5. voter_party_code_DEM                     0.0070
+ 6. voted_2016                               0.0066
+ 7. voted_2016_w                             0.0065
+ 8. age                                      0.0063
+ 9. voter_party_code_REP_w                   0.0061
+10. race_BLACK or AFRICAN AMERICAN           0.0047
+

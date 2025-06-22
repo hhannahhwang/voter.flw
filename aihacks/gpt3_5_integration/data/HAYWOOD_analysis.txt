@@ -1,0 +1,7 @@
+✅ Low Risk
+
+* ⚠️ Medium:  Past poll worker intimidation warrants monitoring.
+* ✅ Low:  Voter history features (voted_2020, voted_2016) show limited suppression.
+* ✅ Low:  Party affiliation (DEM, REP) has minimal impact on risk.
+* ✅ Low:  Demographic features (age, race, gender) show weak suppression.
+* ⚠️ Medium: Underpaid election directors correlate with incidents.

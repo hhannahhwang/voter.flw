@@ -1,0 +1,7 @@
+⚠️ Medium Risk
+
+* ⚠️ High:  Aggressive poll-watching training sessions raise concerns about voter intimidation, potentially suppressing turnout.
+* ⚠️ Medium: Low pay for election directors leads to high turnover, impacting election administration expertise and efficiency.
+* ⚠️ Medium:  Features related to past voting history may disproportionately target specific demographics, potentially suppressing participation.
+* ✅ Low: While racial data is present, the analysis does not indicate intentional racial targeting and gerrymandering is a separate issue.
+

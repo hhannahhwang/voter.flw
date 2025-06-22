@@ -1,0 +1,7 @@
+⚠️ Medium Risk
+
+* ⚠️ High:  Aggressive poll watching training raises intimidation concerns, potentially suppressing minority votes.
+* ⚠️ Medium:  Underpaid election directors correlate with increased incidents and less experienced staff.
+* ⚠️ Medium:  Racial gerrymandering allegations suggest systematic efforts to dilute Black voting power.
+* ✅ Low:  Voter history features weakly correlate with suppression, impacting all voters similarly.
+

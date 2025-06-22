@@ -1,0 +1,7 @@
+⚠️ Medium Risk
+
+* ⚠️ High:  Poll worker intimidation strongly suggests suppression efforts targeting election officials.
+* ⚠️ Medium:  High voter turnout in 2016/2020 correlates with suppression attempts targeting those groups.
+* ⚠️ Medium: Underpaid election officials may lead to administrative failures impacting voter access.
+* ✅ Low: While racial targeting is a concern, the evidence presented is not conclusive.
+

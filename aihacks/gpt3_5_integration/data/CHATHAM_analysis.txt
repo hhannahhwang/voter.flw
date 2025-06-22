@@ -1,0 +1,8 @@
+⚠️ Medium Risk
+
+* ⚠️ High:  Poll worker intimidation suggests suppression efforts targeting poll workers.
+* ⚠️ Medium:  High proportion of previously-voted individuals may indicate selective targeting.
+* ⚠️ Medium: Underpaid election directors correlate with less experienced staff and increased incidents.
+* ✅ Low: While racial categories are present, the impact on suppression risk is currently low.
+* ⚠️ Medium:  Gerrymandering allegations warrant monitoring for potential discriminatory impact.
+

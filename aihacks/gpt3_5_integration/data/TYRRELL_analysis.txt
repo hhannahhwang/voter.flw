@@ -1,0 +1,8 @@
+⚠️ Medium Risk
+
+* ⚠️ Medium — High 2020 voter turnout suggests potential targeting of newly registered or infrequent voters.
+* ⚠️ High — Poll worker intimidation, documented in factual findings, directly suppresses participation.
+* ⚠️ Medium —  Disproportionate focus on Democratic voters hints at partisan suppression efforts.
+* ⚠️ Medium — Underfunded election administration correlates with reduced turnout, particularly affecting marginalized communities.
+* ✅ Low — While age is a factor, its low weighting suggests limited suppression impact.
+

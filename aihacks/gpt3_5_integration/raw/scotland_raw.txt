@@ -1,0 +1,13 @@
+SCOTLAND - Risk Score: 0.521
+Top 10 Most Important Features:
+ 1. voted_2020_w                             0.0430
+ 2. voted_2020                               0.0420
+ 3. voter_party_code_DEM_w                   0.0185
+ 4. age                                      0.0115
+ 5. voter_party_code_DEM                     0.0112
+ 6. race_BLACK or AFRICAN AMERICAN           0.0104
+ 7. voted_2016                               0.0092
+ 8. voted_2016_w                             0.0088
+ 9. voter_party_code_REP_w                   0.0066
+10. gender_M                                 0.0058
+

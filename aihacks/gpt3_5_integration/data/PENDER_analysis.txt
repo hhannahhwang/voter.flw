@@ -1,0 +1,7 @@
+⚠️ Medium Risk
+
+* ⚠️ High:  Poll worker intimidation reports suggest suppression attempts.
+* ⚠️ Medium:  Past voting patterns influence risk scores, showing targeting.
+* ⚠️ Medium:  Underfunded election administration correlates with lower turnout.
+* ✅ Low:  Demographic features (age, gender, race) show weak correlations.
+

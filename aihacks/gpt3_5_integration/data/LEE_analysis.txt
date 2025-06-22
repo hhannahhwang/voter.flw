@@ -1,0 +1,7 @@
+⚠️ Medium Risk
+
+* ⚠️ High:  Poll worker intimidation in Lee County, a swing state, suggests suppression attempts.
+* ⚠️ Medium:  Targeting of Democratic voters (voter_party_code_DEM, DEM_w) hints at partisan suppression.
+* ⚠️ Medium:  Focus on Black voters (race_BLACK) raises concerns of racialized suppression.
+* ✅ Low:  Features like age and past voting (voted_2016, voted_2020) are common in models.
+

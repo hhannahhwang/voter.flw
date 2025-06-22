@@ -1,0 +1,8 @@
+⚠️ Medium Risk
+
+* ⚠️ High:  Poll worker intimidation risks suppressing votes, especially given observed aggressive Republican poll watcher training.
+* ⚠️ Medium:  Features like `voted_2020` and `voted_2020_w` suggest targeting infrequent voters, potentially disenfranchising specific groups.
+* ⚠️ Medium: Underpaid election directors correlate with increased incidents and may indicate administrative neglect impacting voter access.
+* ⚠️ Medium:  Racial targeting is suggested by feature importance of `race_BLACK` and `race_UNDESIGNATED`, alongside gerrymandering allegations.
+* ✅ Low:  While `age` is a feature, there's no evidence of age-based suppression in findings.
+

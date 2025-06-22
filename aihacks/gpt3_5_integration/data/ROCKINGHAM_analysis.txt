@@ -1,0 +1,7 @@
+⚠️ Medium Risk
+
+* ⚠️ High:  Poll worker intimidation reported, suggesting suppression attempts.
+* ⚠️ Medium:  Features show targeting of Black voters and Democrats.
+* ⚠️ Medium: Low pay for election directors correlates with higher turnover and less experience, potentially impacting election administration.
+* ✅ Low: Age as a feature is less indicative of targeted suppression.
+

@@ -1,0 +1,13 @@
+BURKE - Risk Score: 0.940
+Top 10 Most Important Features:
+ 1. voted_2020_w                             0.0293
+ 2. voted_2020                               0.0277
+ 3. voter_party_code_DEM_w                   0.0102
+ 4. race_UNDESIGNATED                        0.0092
+ 5. age                                      0.0083
+ 6. voter_party_code_DEM                     0.0063
+ 7. voter_party_code_REP_w                   0.0060
+ 8. voted_2016                               0.0060
+ 9. voted_2016_w                             0.0059
+10. gender_M                                 0.0041
+

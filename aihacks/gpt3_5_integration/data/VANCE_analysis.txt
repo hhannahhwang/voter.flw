@@ -1,0 +1,8 @@
+⚠️ Medium Risk
+
+* ⚠️ High:  High prominence of recent voter turnout and past voting history features suggests potential targeting of specific demographics.
+* ⚠️ Medium:  "Undesignated race" feature highlights potential administrative issues hindering participation for certain groups.
+* ⚠️ Medium:  Overly aggressive poll watchers, especially targeting minority groups, indicate a suppression risk.
+* ✅ Low: Age as a feature is not inherently indicative of suppression, requiring further investigation.
+
+

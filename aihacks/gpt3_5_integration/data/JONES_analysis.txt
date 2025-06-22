@@ -1,0 +1,7 @@
+⚠️ Medium Risk
+
+* ⚠️ High: Poll worker intimidation (factual finding) suggests suppression efforts targeting specific groups or individuals.
+* ⚠️ Medium:  Features `voted_2020_w`, `voted_2020`, `voted_2016_w`, `voted_2016` highlight potential targeting of past voters.
+* ⚠️ Medium:  `race_BLACK` and `race_UNDESIGNATED` suggest racial targeting, needing further investigation.
+* ⚠️ Medium: Underpaid election directors (factual finding) correlate with less experienced staff, potentially impacting accessibility.
+

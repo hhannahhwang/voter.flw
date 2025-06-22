@@ -1,0 +1,8 @@
+✅ Low Risk
+
+* ⚠️ Medium:  Past poll worker intimidation warrants monitoring.
+* ✅ Low:  Voter history features (voted_2020, voted_2016) show minimal suppression.
+* ✅ Low: Age and party affiliation show weak correlation with suppression.
+* ⚠️ Medium: Underfunded election offices may hinder accessibility for some.
+* ⚠️ Medium:  Racial gerrymandering allegations suggest potential for suppression.
+

@@ -1,0 +1,8 @@
+⚠️ Medium Risk
+
+* ⚠️ High:  Poll worker intimidation risks suppressing minority votes.
+* ⚠️ Medium:  Low pay for election officials correlates with lower turnout.
+* ⚠️ Medium: Targeting of specific demographics based on voting history.
+* ⚠️ Medium:  Racial gerrymandering dilutes minority voting power.
+* ✅ Low:  Undesignated race data has limited impact on suppression.
+

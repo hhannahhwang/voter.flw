@@ -1,0 +1,7 @@
+⚠️ Medium Risk
+
+* ⚠️ High:  Aggressive poll watching reported, potentially intimidating voters.
+* ⚠️ Medium:  Low pay for election officials linked to higher turnover and less experience.
+* ⚠️ Medium:  Racial gerrymandering allegations suggest suppression attempts.
+* ✅ Low: Features like age and gender show weak correlation to suppression.
+

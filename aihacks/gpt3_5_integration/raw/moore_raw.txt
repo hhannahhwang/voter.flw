@@ -1,0 +1,13 @@
+MOORE - Risk Score: 0.801
+Top 10 Most Important Features:
+ 1. voted_2020_w                             0.0297
+ 2. voted_2020                               0.0280
+ 3. race_UNDESIGNATED                        0.0093
+ 4. voter_party_code_DEM_w                   0.0085
+ 5. age                                      0.0068
+ 6. voter_party_code_DEM                     0.0052
+ 7. voted_2016                               0.0052
+ 8. voted_2016_w                             0.0049
+ 9. voter_party_code_REP_w                   0.0048
+10. gender_M                                 0.0035
+

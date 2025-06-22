@@ -1,0 +1,13 @@
+BEAUFORT - Risk Score: 0.658
+Top 10 Most Important Features:
+ 1. voted_2020_w                             0.0348
+ 2. voted_2020                               0.0334
+ 3. voter_party_code_DEM_w                   0.0119
+ 4. race_UNDESIGNATED                        0.0118
+ 5. age                                      0.0081
+ 6. voter_party_code_DEM                     0.0075
+ 7. voted_2016                               0.0069
+ 8. voted_2016_w                             0.0066
+ 9. voter_party_code_REP_w                   0.0059
+10. race_BLACK or AFRICAN AMERICAN           0.0041
+

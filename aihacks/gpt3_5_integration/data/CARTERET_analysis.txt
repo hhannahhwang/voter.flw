@@ -1,0 +1,7 @@
+✅ Low Risk
+
+* ✅ Low:  Past voter turnout (voted_2020, voted_2016) is a weak indicator.
+* ⚠️ Medium: Poll worker intimidation is concerning, needs monitoring.
+* ⚠️ Medium: Low pay for election directors correlates with increased incidents.
+* ⚠️ Medium:  Racial gerrymandering allegations may suppress minority votes.
+

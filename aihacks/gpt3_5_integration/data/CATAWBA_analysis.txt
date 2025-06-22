@@ -1,0 +1,9 @@
+✅ Low Risk
+
+* ⚠️ Medium:  `voted_2020_w` and `voted_2020` suggest some targeting of recent voters.
+* ⚠️ Medium: `voter_party_code_DEM_w` and `voter_party_code_DEM` indicate potential Democratic voter targeting.
+* ✅ Low:  Other features (`race_UNDESIGNATED`, `age`, `gender_M`) show weak or no suppression.
+* ⚠️ High: Poll worker intimidation reported, threatening fair elections.
+* ⚠️ Medium: Underpaid election directors correlate with less experience and potential neglect.
+
+

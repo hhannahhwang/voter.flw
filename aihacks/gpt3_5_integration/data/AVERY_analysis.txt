@@ -1,0 +1,7 @@
+✅ Low Risk
+
+* ✅ Low:  `voted_2020` and `voted_2020_w`'s low impact suggests existing voters are not significantly suppressed.
+* ⚠️ Medium: Poll worker intimidation (factual findings) indicates a risk, but the impact's extent is unclear.
+* ⚠️ Medium:  Underpaid election directors (factual findings) correlate with higher incident reports and less experience, impacting administration.
+* ⚠️ Medium: Increased partisan poll observers (factual findings) may intimidate voters, but the impact on suppression needs monitoring.
+* ✅ Low:  Features like race, age, and party affiliation show minimal individual effects on suppression risk.

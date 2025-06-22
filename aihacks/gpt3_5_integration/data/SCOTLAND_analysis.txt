@@ -1,0 +1,8 @@
+⚠️ Medium Risk
+
+* ⚠️ High: Poll worker intimidation (factual finding) suggests suppression attempts.
+* ⚠️ Medium:  Past voting history as a feature indicates potential targeting.
+* ⚠️ Medium: Low pay for election officials (factual finding) correlates with reduced access.
+* ✅ Low:  Age and party affiliation, while present, show weak correlations.
+
+

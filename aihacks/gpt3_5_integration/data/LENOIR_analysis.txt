@@ -1,0 +1,8 @@
+⚠️ Medium Risk
+
+* ⚠️ Medium:  High "voted_2020" and "voted_2020_w" scores suggest targeting of recent voters.
+* ⚠️ Medium:  Elevated "race_BLACK" and "race_UNDESIGNATED" scores indicate potential racial bias.
+* ⚠️ High:  Poll worker intimidation (factual findings) points to direct suppression efforts.
+* ✅ Low: Low "voter_party_code_REP_w" score suggests less focus on suppressing Republican voters.
+* ⚠️ Medium: Low pay for election directors (factual findings) correlates with potential administrative neglect.
+

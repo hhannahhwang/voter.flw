@@ -1,0 +1,8 @@
+✅ Low Risk
+
+* ⚠️ Medium:  High `voted_2020_w` and `voted_2020` suggest some suppression, but further investigation needed.
+* ✅ Low:  `race_UNDESIGNATED` is a data issue, not suppression.
+* ⚠️ Medium:  Targeting Democrats (`voter_party_code_DEM_w`, `voter_party_code_DEM`) warrants monitoring.
+* ⚠️ High: Poll worker intimidation (factual findings) indicates targeted suppression.
+* ⚠️ Medium: Low pay for election officials (factual findings) may lead to administrative neglect.
+

@@ -1,0 +1,8 @@
+⚠️ Medium Risk
+
+* ⚠️ High:  Poll worker intimidation strongly suggests suppression attempts.
+* ⚠️ Medium:  Voter history as a feature indicates potential targeting.
+* ⚠️ Medium:  Underfunded election offices may hinder access for some.
+* ✅ Low:  While age and gender are features, impact is minimal.
+* ⚠️ Medium:  Racial targeting is suggested by findings, needs monitoring.
+

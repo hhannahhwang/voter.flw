@@ -1,0 +1,8 @@
+✅ Low Risk
+
+* ⚠️ Medium:  Past poll worker intimidation suggests risk, but impact unclear.
+* ✅ Low:  Voter history (voted_2020, voted_2016) is a weak indicator.
+* ✅ Low: Age and gender show minimal impact on suppression risk.
+* ⚠️ Medium:  Underfunded election administration correlates with lower turnout.
+* ⚠️ Medium:  Racial gerrymandering allegations warrant further investigation.
+

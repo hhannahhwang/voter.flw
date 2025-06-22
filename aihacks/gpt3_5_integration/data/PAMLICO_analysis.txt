@@ -1,0 +1,8 @@
+⚠️ Medium Risk
+
+* ⚠️ High:  Poll worker intimidation risks suppressing votes, confirmed by documented training promoting aggressive observation.
+* ⚠️ Medium:  Past voting history is a strong predictor, suggesting suppression of infrequent voters.
+* ⚠️ Medium:  Underpaid election directors correlate with increased incidents and less experienced staff.
+* ⚠️ Medium:  Racial gerrymandering allegations raise concerns about the equitable distribution of voting power.
+* ✅ Low:  While the model flags voter gender and party affiliation, the impact on suppression is minimal in this analysis.
+

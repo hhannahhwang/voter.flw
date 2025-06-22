@@ -1,0 +1,8 @@
+1. ⚠️ High Risk
+
+* ⚠️ High:  Poll worker intimidation risks suppressing votes, impacting election integrity.
+* ⚠️ Medium:  Past voter participation is a strong predictor of future turnout.
+* ⚠️ Medium: Targeting Democratic voters and specific racial groups raises concerns.
+* ⚠️ Medium: Underpaid election directors correlate with higher incident reports.
+* ⚠️ Medium:  Limited office space in some counties may hinder accessibility.
+

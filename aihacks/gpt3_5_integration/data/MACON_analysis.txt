@@ -1,0 +1,8 @@
+✅ Low Risk
+
+* ⚠️ Medium:  High `voted_2020` suggests potential targeting of recent voters.
+* ✅ Low:  Features like `voter_party_code_DEM` show minimal party-specific targeting.
+* ⚠️ Medium:  Underfunded election administration (`race_UNDESIGNATED`) may disproportionately impact certain groups.
+* ⚠️ High: Poll worker intimidation documented, raising serious suppression concerns.
+* ⚠️ Medium:  High turnover of election directors suggests administrative instability.
+

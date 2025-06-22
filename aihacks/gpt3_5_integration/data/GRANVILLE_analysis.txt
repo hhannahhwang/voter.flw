@@ -1,0 +1,8 @@
+⚠️ Medium Risk
+
+* ⚠️ Medium:  High emphasis on past voting behavior suggests potential targeting of infrequent voters.
+* ⚠️ Medium:  "UNDESIGNATED" race feature highlights potential data collection issues impacting marginalized groups.
+* ⚠️ High:  Poll worker intimidation documented, raising concerns about access and fair elections.
+* ✅ Low: While age is a feature, no evidence suggests age-based suppression in Granville County.
+* ⚠️ Medium:  Over-representation of Democratic voters in features may indicate partisan targeting.
+

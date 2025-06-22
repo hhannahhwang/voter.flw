@@ -1,0 +1,7 @@
+⚠️ Medium Risk
+
+* ⚠️ High: Poll worker intimidation (factual finding) suggests suppression attempts.
+* ⚠️ Medium:  Features like `voted_2020` and `voter_party_code_DEM` may indicate targeting.
+* ⚠️ Medium: Low pay for election directors (factual finding) correlates with less experience and potential administrative neglect.
+* ✅ Low: Features `race_BLACK` and `race_UNDESIGNATED` show minor impact, needing further investigation.
+

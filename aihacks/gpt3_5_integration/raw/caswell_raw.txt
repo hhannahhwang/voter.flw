@@ -1,0 +1,13 @@
+CASWELL - Risk Score: 0.612
+Top 10 Most Important Features:
+ 1. voted_2020_w                             0.0413
+ 2. voted_2020                               0.0398
+ 3. voter_party_code_DEM_w                   0.0153
+ 4. race_UNDESIGNATED                        0.0152
+ 5. age                                      0.0095
+ 6. voter_party_code_DEM                     0.0093
+ 7. voted_2016                               0.0075
+ 8. voted_2016_w                             0.0074
+ 9. race_BLACK or AFRICAN AMERICAN           0.0071
+10. voter_party_code_REP_w                   0.0064
+
