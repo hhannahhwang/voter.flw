@@ -1,31 +1,56 @@
-"""AIhacks: A Flower / PyTorch app."""
+import flwr as fl
+import numpy as np
+import json
+import joblib
+from flwr.common import parameters_to_ndarrays
+from task import make_model, FEATURES_PATH
 
-from flwr.common import Context, ndarrays_to_parameters
-from flwr.server import ServerApp, ServerAppComponents, ServerConfig
-from flwr.server.strategy import FedAvg
-from aihacks.task import Net, get_weights
+
+class SaveModel(fl.server.strategy.FedAvg):
+    def __init__(self, rounds=10):
+        super().__init__(
+            fraction_fit=0.85,
+            min_fit_clients=50,
+            min_available_clients=50
+        )
+        self.rounds = rounds
+        self.params = None
+
+    def aggregate_fit(self, rnd, results, failures):
+        agg = super().aggregate_fit(rnd, results, failures)
+        if agg:
+            self.params = agg[0]
+
+            if rnd == self.rounds:
+                # Load feature names
+                features = json.load(open(FEATURES_PATH))
+
+                # Make model and initialize it with dummy fit
+                model = make_model(len(features))
+                dummy_X = np.zeros((2, len(features)))
+                dummy_y = np.array([0, 1])
+                model.partial_fit(dummy_X, dummy_y, classes=np.array([0, 1]))
+
+                # Convert FL parameters → model weights
+                weights = parameters_to_ndarrays(self.params)
+                n_layers = len(model.coefs_)
+                model.coefs_ = weights[:n_layers]
+                model.intercepts_ = weights[n_layers:]
+
+                # Save final model
+                joblib.dump({"model": model, "features": features}, "fed_turnout.joblib")
+                print("✅ saved fed_turnout.joblib")
+
+        return agg
 
 
-def server_fn(context: Context):
-    # Read from config
-    num_rounds = context.run_config["num-server-rounds"]
-    fraction_fit = context.run_config["fraction-fit"]
+# Instantiate strategy
+strategy = SaveModel(rounds=10)
 
-    # Initialize model parameters
-    ndarrays = get_weights(Net())
-    parameters = ndarrays_to_parameters(ndarrays)
-
-    # Define strategy
-    strategy = FedAvg(
-        fraction_fit=fraction_fit,
-        fraction_evaluate=1.0,
-        min_available_clients=2,
-        initial_parameters=parameters,
+# Start server
+if __name__ == "__main__":
+    fl.server.start_server(
+        server_address="0.0.0.0:8080",
+        config=fl.server.ServerConfig(num_rounds=10),
+        strategy=strategy
     )
-    config = ServerConfig(num_rounds=num_rounds)
-
-    return ServerAppComponents(strategy=strategy, config=config)
-
-
-# Create ServerApp
-app = ServerApp(server_fn=server_fn)
