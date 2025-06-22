@@ -1,0 +1,3 @@
+[submodule "aihacks_frontend"]
+	path = aihacks_frontend
+	url = https://github.com/hhannahhwang/aihacks_frontend.git
