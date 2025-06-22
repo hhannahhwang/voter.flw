@@ -1,3 +1,11 @@
+#data
+
+absentee2016/
+absentee2020/
+absentee2024/
+votehistory/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
