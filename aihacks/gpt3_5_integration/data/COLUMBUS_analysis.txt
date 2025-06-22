@@ -1,0 +1,7 @@
+⚠️ Medium Risk
+
+* ⚠️ High:  Poll worker intimidation risks suppressing vulnerable groups' votes.
+* ⚠️ Medium:  Voter history data suggests targeting of specific demographics.
+* ⚠️ Medium: Low pay for election directors correlates with reduced access.
+* ⚠️ Medium: Gerrymandering allegations indicate potential for vote dilution.
+* ✅ Low: Age as a feature has minimal demonstrated impact.

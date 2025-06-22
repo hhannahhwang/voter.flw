@@ -1,0 +1,13 @@
+ORANGE - Risk Score: 0.106
+Top 10 Most Important Features:
+ 1. voted_2020_w                             0.0469
+ 2. voted_2020                               0.0456
+ 3. race_UNDESIGNATED                        0.0305
+ 4. voter_party_code_DEM_w                   0.0225
+ 5. voter_party_code_DEM                     0.0139
+ 6. age                                      0.0135
+ 7. voted_2016                               0.0100
+ 8. voted_2016_w                             0.0100
+ 9. gender_M                                 0.0070
+10. race_BLACK or AFRICAN AMERICAN           0.0058
+

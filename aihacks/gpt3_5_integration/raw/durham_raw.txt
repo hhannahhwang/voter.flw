@@ -1,0 +1,12 @@
+DURHAM - Risk Score: 0.000
+Top 10 Most Important Features:
+ 1. voted_2020_w                             0.0528
+ 2. voted_2020                               0.0480
+ 3. voter_party_code_DEM_w                   0.0233
+ 4. race_UNDESIGNATED                        0.0225
+ 5. age                                      0.0155
+ 6. voter_party_code_DEM                     0.0146
+ 7. race_BLACK or AFRICAN AMERICAN           0.0125
+ 8. voted_2016                               0.0103
+ 9. voted_2016_w                             0.0101
+10. gender_M                                 0.0073

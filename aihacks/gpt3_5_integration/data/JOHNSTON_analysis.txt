@@ -1,0 +1,7 @@
+⚠️ Medium Risk
+
+* ⚠️ High:  Poll worker intimidation suggests suppression attempts.
+* ⚠️ Medium:  Features showing past voting patterns may target specific demographics.
+* ⚠️ Medium: Underpaid election directors correlate with increased incidents and less experience.
+* ✅ Low:  While some features reflect demographics, the evidence of suppression is not definitive.
+

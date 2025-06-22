@@ -1,0 +1,7 @@
+⚠️ Medium Risk
+
+* ⚠️ High:  Poll worker intimidation poses a significant threat to fair elections.
+* ⚠️ Medium:  Underpaid election directors lead to high turnover and lack of expertise.
+* ⚠️ Medium:  Racial gerrymandering suppresses Black voter influence.
+* ✅ Low:  While past voting behavior is a feature, its impact is minor.
+

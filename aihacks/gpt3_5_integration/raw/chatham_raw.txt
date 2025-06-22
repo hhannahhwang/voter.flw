@@ -1,0 +1,13 @@
+CHATHAM - Risk Score: 0.477
+Top 10 Most Important Features:
+ 1. voted_2020_w                             0.0456
+ 2. voted_2020                               0.0443
+ 3. voter_party_code_DEM_w                   0.0187
+ 4. race_UNDESIGNATED                        0.0163
+ 5. age                                      0.0119
+ 6. voter_party_code_DEM                     0.0112
+ 7. voted_2016                               0.0093
+ 8. voted_2016_w                             0.0089
+ 9. voter_party_code_REP_w                   0.0063
+10. race_BLACK or AFRICAN AMERICAN           0.0062
+

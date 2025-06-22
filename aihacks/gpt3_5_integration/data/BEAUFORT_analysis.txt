@@ -1,0 +1,8 @@
+⚠️ Medium Risk
+
+* ⚠️ High:  Poll worker intimidation poses a significant threat to fair elections.
+* ⚠️ Medium:  Past voting behavior is a predictor, suggesting suppression efforts.
+* ⚠️ Medium:  Underpaid election directors correlate with higher incident reports.
+* ⚠️ Medium:  Racial targeting is suggested by feature importance and gerrymandering.
+* ✅ Low: Age as a feature is unlikely to be a primary suppression factor alone.
+

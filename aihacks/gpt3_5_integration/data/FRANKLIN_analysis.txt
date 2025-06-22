@@ -1,0 +1,8 @@
+⚠️ Medium Risk
+
+* ⚠️ High:  Poll worker intimidation documented;  threatens fair elections.
+* ⚠️ Medium:  Low pay for election directors correlates with high turnover and less experience.
+* ⚠️ Medium:  Partisan poll observers increase; potential for voter intimidation.
+* ⚠️ Medium:  Racial gerrymandering allegations; suppresses minority voting power.
+* ✅ Low: Age as a feature is unlikely to be a significant factor in suppression.
+

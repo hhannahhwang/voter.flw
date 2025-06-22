@@ -1,0 +1,7 @@
+⚠️ Medium Risk
+
+* ⚠️ High: Poll worker intimidation suggests suppression attempts targeting specific groups.
+* ⚠️ Medium:  Past voter participation is a strong predictor of future voting; targeting non-voters is risky.
+* ⚠️ Medium:  Low pay for election officials correlates with higher turnover, impacting election administration.
+* ⚠️ Medium:  Racial gerrymandering allegations indicate efforts to dilute minority voting power.
+* ✅ Low:  Gender and party affiliation show minimal impact on suppression risk in this model.

@@ -1,0 +1,8 @@
+⚠️ Medium Risk
+
+* ⚠️ High:  Poll worker intimidation suggests suppression attempts targeting vulnerable groups.
+* ⚠️ Medium:  Features like `voted_2020_w` and `race_BLACK` hint at targeted voter suppression.
+* ⚠️ Medium: Low pay for election officials correlates with increased incidents and less experienced staff, impacting access.
+* ✅ Low:  While `voter_party_code_DEM_w` shows some partisan targeting, the effect is relatively weak.
+
+

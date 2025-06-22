@@ -1,0 +1,7 @@
+⚠️ Medium Risk
+
+* ⚠️ High:  Poll worker intimidation significantly increases suppression risk, especially given observed aggressive training.
+* ⚠️ Medium:  Targeting of specific demographics (race, party) in model features warrants monitoring for potential bias.
+* ⚠️ Medium: Low pay for election directors correlates with higher turnover and potentially less-experienced staff.
+* ✅ Low: While voter history is a feature, its low weight suggests limited suppression impact in this model.
+

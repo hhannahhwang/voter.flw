@@ -1,0 +1,13 @@
+LENOIR - Risk Score: 0.509
+Top 10 Most Important Features:
+ 1. voted_2020_w                             0.0365
+ 2. voted_2020                               0.0348
+ 3. voter_party_code_DEM_w                   0.0118
+ 4. race_UNDESIGNATED                        0.0116
+ 5. age                                      0.0077
+ 6. voter_party_code_DEM                     0.0074
+ 7. race_BLACK or AFRICAN AMERICAN           0.0067
+ 8. voted_2016                               0.0063
+ 9. voted_2016_w                             0.0061
+10. voter_party_code_REP_w                   0.0035
+

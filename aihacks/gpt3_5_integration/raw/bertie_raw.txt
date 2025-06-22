@@ -1,0 +1,13 @@
+BERTIE - Risk Score: 0.459
+Top 10 Most Important Features:
+ 1. voted_2020_w                             0.0464
+ 2. voted_2020                               0.0449
+ 3. voter_party_code_DEM_w                   0.0112
+ 4. age                                      0.0078
+ 5. race_BLACK or AFRICAN AMERICAN           0.0076
+ 6. voted_2016_w                             0.0072
+ 7. voted_2016                               0.0072
+ 8. voter_party_code_DEM                     0.0066
+ 9. race_UNDESIGNATED                        0.0051
+10. gender_M                                 0.0044
+

@@ -1,0 +1,8 @@
+1. ⚠️ High Risk
+
+* ⚠️ High:  Poll worker intimidation risks suppressing minority votes.
+* ⚠️ Medium:  Past voting behavior heavily influences the model.
+* ⚠️ Medium:  Democratic voters are disproportionately flagged.
+* ⚠️ Medium:  Racial disparities in the model's features.
+* ⚠️ Medium: Underpaid election officials lead to administrative issues and low turnout.
+

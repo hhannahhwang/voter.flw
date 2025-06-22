@@ -1,0 +1,8 @@
+⚠️ Medium Risk
+
+* ⚠️ High:  Poll worker intimidation suggests suppression attempts.
+* ⚠️ Medium:  Low pay for election directors correlates with higher turnover and less experience.
+* ⚠️ Medium:  Racial gerrymandering lawsuits indicate potential for vote dilution.
+* ⚠️ Medium: Underfunded counties show lower turnout, suggesting administrative neglect.
+* ✅ Low:  Voter history and demographics, while included, show minimal individual targeting.
+

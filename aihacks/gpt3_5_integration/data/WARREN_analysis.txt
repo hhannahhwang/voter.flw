@@ -1,0 +1,8 @@
+⚠️ Medium Risk
+
+* ⚠️ High:  Poll worker intimidation significantly impacts election integrity and voter confidence, potentially suppressing turnout.
+* ⚠️ Medium:  Past voting behavior is a strong predictor, suggesting potential targeting of infrequent voters.
+* ⚠️ Medium:  Underpaid election officials and high turnover correlate with less-accessible voting, impacting voter turnout.
+* ⚠️ Medium:  Racial gerrymandering allegations raise concerns about systematic voter suppression targeting minority groups.
+* ✅ Low: Gender appears to have minimal influence on suppression risk in the model.
+

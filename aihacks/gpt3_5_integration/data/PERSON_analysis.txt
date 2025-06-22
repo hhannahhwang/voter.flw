@@ -1,0 +1,8 @@
+⚠️ Medium Risk
+
+* ⚠️ High:  Poll worker intimidation strongly suggests suppression efforts targeting election officials.
+* ⚠️ Medium:  Targeting voters based on past voting behavior shows potential for suppression.
+* ⚠️ Medium:  Underpaid election officials correlate with increased incidents and less experience.
+* ⚠️ Medium:  Racial gerrymandering allegations indicate systematic voter suppression attempts.
+* ✅ Low: While age and race are features, the weak weights suggest minimal impact.
+

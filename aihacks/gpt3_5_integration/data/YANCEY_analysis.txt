@@ -1,0 +1,8 @@
+✅ Low Risk
+
+* ✅ Low:  Past voter turnout (voted_2020, voted_2016) shows minimal suppression.
+* ⚠️ Medium: Poll worker intimidation (factual findings) suggests potential suppression.
+* ⚠️ Medium: Underpaid election directors (factual findings) correlate with lower turnout.
+* ⚠️ Medium:  Racial gerrymandering (factual findings) may disproportionately affect minority voting.
+* ✅ Low:  Other features (age, gender, party affiliation) show weak influence.
+

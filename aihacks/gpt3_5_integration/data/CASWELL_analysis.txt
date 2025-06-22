@@ -1,0 +1,8 @@
+⚠️ Medium Risk
+
+* ⚠️ High:  Poll worker intimidation risks suppressing turnout, especially impacting minority groups.
+* ⚠️ Medium:  Past voting history is a significant predictor, suggesting barriers to consistent participation.
+* ⚠️ Medium:  Underfunded election administration correlates with lower turnout, especially in underserved areas.
+* ⚠️ Medium:  Racial gerrymandering allegations suggest efforts to dilute minority voting power.
+* ✅ Low: Age is a minor factor, suggesting a less targeted form of suppression.
+

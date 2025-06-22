@@ -1,0 +1,7 @@
+⚠️ Medium Risk
+
+* ⚠️ High:  Poll worker intimidation risks suppressing votes, especially given reported targeting of minority groups.
+* ⚠️ Medium:  Past voting behavior is a strong predictor, suggesting potential disenfranchisement of infrequent voters.
+* ⚠️ Medium: Underfunded election administration correlates with lower turnout, disproportionately impacting certain communities.
+* ✅ Low: While age and race appear as features, the impact is minor relative to other factors.
+

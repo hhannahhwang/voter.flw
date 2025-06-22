@@ -1,0 +1,8 @@
+✅ Low Risk
+
+* ⚠️ Medium:  Recent poll worker intimidation suggests localized suppression attempts.
+* ✅ Low:  Features related to past voting behavior are not inherently suppressive.
+* ✅ Low:  Demographic features show minimal impact on suppression risk scores.
+* ⚠️ Medium: Underpaid election directors correlate with fewer resources, impacting accessibility.
+* ⚠️ Medium:  Increased partisan poll observers may create an intimidating environment.
+

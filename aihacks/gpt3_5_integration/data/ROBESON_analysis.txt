@@ -1,0 +1,7 @@
+⚠️ Medium Risk
+
+* ⚠️ High:  Poll worker intimidation significantly undermines election integrity.
+* ⚠️ Medium:  Past voting behavior is a strong predictor of suppression.
+* ⚠️ Medium:  Underfunded election offices increase administrative burden.
+* ✅ Low:  Undesignated race data alone is insufficient evidence.
+

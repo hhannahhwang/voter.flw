@@ -1,0 +1,13 @@
+EDGECOMBE - Risk Score: 0.120
+Top 10 Most Important Features:
+ 1. voted_2020_w                             0.0507
+ 2. voted_2020                               0.0482
+ 3. voter_party_code_DEM_w                   0.0123
+ 4. race_BLACK or AFRICAN AMERICAN           0.0092
+ 5. age                                      0.0092
+ 6. voted_2016_w                             0.0087
+ 7. voted_2016                               0.0087
+ 8. voter_party_code_DEM                     0.0079
+ 9. race_UNDESIGNATED                        0.0071
+10. gender_M                                 0.0052
+

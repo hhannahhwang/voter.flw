@@ -1,0 +1,8 @@
+✅ Low Risk
+
+* ✅ Low:  `voted_2020_w` and `voted_2020` reflect normal variance in voter turnout.
+* ⚠️ Medium: `race_UNDESIGNATED` may indicate suppression of minority groups, warrants investigation.
+* ⚠️ Medium:  Underpaid election directors (findings) correlate with increased incidents, impacting access.
+* ⚠️ High:  Poll worker intimidation (findings) suggests targeted suppression efforts, needs immediate attention.
+* ⚠️ Medium: Increased partisan poll observers (findings) may create an intimidating atmosphere.
+

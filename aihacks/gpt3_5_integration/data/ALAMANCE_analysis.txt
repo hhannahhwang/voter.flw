@@ -1,0 +1,7 @@
+⚠️ Medium Risk
+
+* ⚠️ High:  Poll worker intimidation, potentially suppressing minority votes.
+* ⚠️ Medium:  Low pay for election officials correlates with higher turnover and less experience.
+* ⚠️ Medium: Targeting of specific demographics (race and party) in model features suggests potential bias.
+* ✅ Low:  While age is a feature, there's no evidence of age-based suppression.
+

@@ -1,0 +1,8 @@
+✅ Low Risk
+
+* ✅ Low:  Voter history features (voted_2020, voted_2016) show minimal suppression risk.
+* ⚠️ Medium: Poll worker intimidation, though concerning, lacks widespread evidence.
+* ⚠️ Medium: Low-paid election directors correlate with higher turnover, potentially impacting capacity.
+* ⚠️ Medium:  Racial gerrymandering allegations, if proven, indicate targeted suppression.
+* ⚠️ Medium: Underfunded counties show lower voter turnout, suggesting administrative barriers.
+

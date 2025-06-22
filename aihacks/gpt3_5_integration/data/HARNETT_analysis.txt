@@ -1,0 +1,8 @@
+⚠️ Medium Risk
+
+* ⚠️ High:  Poll worker intimidation documented, potentially suppressing vulnerable groups' participation.
+* ⚠️ Medium:  Features related to past voting behavior suggest targeting specific demographics.
+* ⚠️ Medium: Underpaid election directors correlate with increased incidents and less experienced staff.
+* ⚠️ Medium:  Racial gerrymandering allegations indicate potential systematic voter suppression.
+* ✅ Low: Age as a feature is a broad demographic, unlikely to indicate targeted suppression.
+

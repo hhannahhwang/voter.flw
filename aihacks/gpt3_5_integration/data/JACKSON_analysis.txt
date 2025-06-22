@@ -1,0 +1,8 @@
+⚠️ Medium Risk
+
+⚠️ Medium —  High proportion of features relate to past voting behavior, suggesting potential targeting of infrequent voters.
+⚠️ Medium —  "UNDESIGNATED" race category highlights data gaps potentially masking suppression in minority groups.
+⚠️ High —  Poll worker intimidation documented, directly impacting election administration and voter confidence.
+⚠️ Medium —  Underfunded election administration, particularly in low-income counties, creates access barriers.
+⚠️ Medium —  Gerrymandering allegations raise concerns about intentionally skewed districts impacting minority votes.
+

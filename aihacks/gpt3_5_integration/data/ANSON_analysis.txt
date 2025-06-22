@@ -1,0 +1,8 @@
+1. ⚠️ High Risk
+
+* ⚠️ High:  High `voted_2020_w` and `voted_2020` suggest targeting repeat voters.
+* ⚠️ Medium:  `race_UNDESIGNATED` hints at potential disenfranchisement of minority groups.
+* ⚠️ Medium:  Overly aggressive poll watchers disproportionately impact minority voters.
+* ⚠️ Medium: Underpaid election officials lead to administrative neglect and lower turnout.
+* ⚠️ Medium: Gerrymandering and underfunded counties suppress votes in certain areas.
+

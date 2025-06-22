@@ -1,0 +1,8 @@
+✅ Low Risk
+
+* ✅ Low:  Past voting history (2016, 2020) weakly correlates with suppression risk, likely reflecting normal patterns.
+* ⚠️ Medium:  Undesignated race raises concern, indicating potential for misclassification and exclusion.
+* ⚠️ Medium: Democratic voter affiliation shows some evidence of targeting, needing monitoring.
+* ⚠️ High:  Poll worker intimidation reported, directly impacting election access and fairness.
+* ⚠️ Medium: Underpaid election officials correlate with higher incident reports, suggesting administrative neglect.
+

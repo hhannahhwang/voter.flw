@@ -1,0 +1,7 @@
+⚠️ High Risk
+
+⚠️ High:  Poll worker intimidation risks suppressing votes, especially in minority communities.
+⚠️ Medium:  Past voting behavior is a strong predictor, suggesting suppression efforts.
+⚠️ Medium:  Underfunded election offices hinder access for marginalized groups.
+⚠️ Medium:  Racial targeting is suggested by model feature 'race_UNDESIGNATED'.
+⚠️ Low:  Age and gender show minor correlations, not indicating direct suppression.

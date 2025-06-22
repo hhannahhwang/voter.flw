@@ -1,0 +1,13 @@
+IREDELL - Risk Score: 0.772
+Top 10 Most Important Features:
+ 1. voted_2020_w                             0.0338
+ 2. voted_2020                               0.0314
+ 3. race_UNDESIGNATED                        0.0162
+ 4. voter_party_code_DEM_w                   0.0089
+ 5. age                                      0.0074
+ 6. voter_party_code_REP_w                   0.0066
+ 7. voted_2016                               0.0063
+ 8. voted_2016_w                             0.0061
+ 9. voter_party_code_DEM                     0.0052
+10. gender_M                                 0.0045
+

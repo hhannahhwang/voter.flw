@@ -1,0 +1,7 @@
+⚠️ Medium Risk
+
+* ⚠️ High:  Poll worker intimidation strongly suggests suppression attempts.
+* ⚠️ Medium:  Targeting of specific demographics (race, party) raises concern.
+* ⚠️ Medium: Low pay for election directors correlates with higher incident reports.
+* ✅ Low:  Age as a feature is a weak indicator of suppression.
+

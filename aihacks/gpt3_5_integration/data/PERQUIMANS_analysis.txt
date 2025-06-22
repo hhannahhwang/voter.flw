@@ -1,0 +1,7 @@
+⚠️ Medium Risk
+
+* ⚠️ High:  Poll worker intimidation is a serious threat to election integrity, suppressing participation.
+* ⚠️ Medium:  Voter history data suggests potential targeting of specific demographics.
+* ⚠️ Medium:  Underpaid election directors correlate with higher incident reports and lower turnout.
+* ✅ Low: While racial data is present, its low weighting suggests limited discriminatory impact.
+

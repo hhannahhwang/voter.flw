@@ -1,0 +1,13 @@
+POLK - Risk Score: 0.775
+Top 10 Most Important Features:
+ 1. voted_2020_w                             0.0278
+ 2. voted_2020                               0.0274
+ 3. voter_party_code_DEM_w                   0.0096
+ 4. age                                      0.0081
+ 5. race_UNDESIGNATED                        0.0075
+ 6. voter_party_code_DEM                     0.0061
+ 7. voted_2016                               0.0060
+ 8. voted_2016_w                             0.0058
+ 9. voter_party_code_REP_w                   0.0052
+10. gender_M                                 0.0037
+

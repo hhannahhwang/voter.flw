@@ -1,0 +1,7 @@
+⚠️ Medium Risk
+
+* ⚠️ High:  Poll worker intimidation suggests suppression attempts.
+* ⚠️ Medium:  Past voting history is a feature, possibly targeting specific demographics.
+* ⚠️ Medium:  Low pay for election directors correlates with increased incidents and turnover.
+* ✅ Low:  While race is a feature, the evidence is not overwhelmingly strong.
+

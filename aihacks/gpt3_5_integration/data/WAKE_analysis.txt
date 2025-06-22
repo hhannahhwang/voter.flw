@@ -1,0 +1,8 @@
+⚠️ Medium Risk
+
+* ⚠️ High:  Poll worker intimidation (factual finding) suggests suppression attempts.
+* ⚠️ Medium:  Features highlighting past voting behavior may disenfranchise infrequent voters.
+* ⚠️ Medium:  Underfunded election administration (factual finding) disproportionately impacts certain groups.
+* ⚠️ Medium:  Racial targeting indicated by model features and gerrymandering allegations.
+* ✅ Low:  Age as a feature may reflect lifecycle voting patterns, not suppression.
+

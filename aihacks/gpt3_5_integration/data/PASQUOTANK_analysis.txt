@@ -1,0 +1,7 @@
+⚠️ Medium Risk
+
+* ⚠️ High:  Poll worker intimidation directly impacts election integrity, suppressing participation.
+* ⚠️ Medium:  Voter history features suggest targeting repeat voters, possibly suppressing specific groups.
+* ⚠️ Medium:  Undesignated race codes hinder accurate demographic analysis, masking potential bias.
+* ⚠️ Medium: Low pay for election officials correlates with less experience, potentially leading to errors or mismanagement.
+* ✅ Low: Age as a factor alone is not indicative of targeted suppression.
