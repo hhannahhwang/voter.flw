@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 import glob, joblib, numpy as np, pandas as pd
 import shap
 from pathlib import Path
@@ -6,20 +5,17 @@ from task import build_xy
 import warnings
 warnings.filterwarnings('ignore')
 
-# 1) load model
 bundle = joblib.load("fed_turnout.joblib")
 model  = bundle["model"]
 feature_names = bundle["features"]
 
 def get_top_features(importance_scores, feature_names, top_n=10):
-    """Get top N most important features with their scores."""
     indices = np.argsort(importance_scores)[::-1][:top_n]
     return [(feature_names[i], importance_scores[i]) for i in indices]
 
 rows, raw_risks = [], []
 county_shap_data = {}
 
-# 2) compute raw risk
 for csv_path in sorted(glob.glob("result/*.csv")):
     county = Path(csv_path).stem.replace("_Merged", "")
     X, _   = build_xy(csv_path)
@@ -48,29 +44,26 @@ for csv_path in sorted(glob.glob("result/*.csv")):
         explain_data = X[explain_indices]
         shap_values = explainer.shap_values(explain_data)
     
-    # For binary classification, get positive class SHAP values
+    # get positive class SHAP values
     if isinstance(shap_values, list) and len(shap_values) == 2:
         shap_values = shap_values[1]
     elif shap_values.ndim == 3:
         shap_values = shap_values[:, :, 1]
     
-    # Calculate feature importance for this county
     mean_abs_shap = np.abs(shap_values).mean(axis=0)
     
-    # Store county-specific SHAP analysis
     county_shap_data[county] = {
         'feature_importance': mean_abs_shap,
         'top_features': get_top_features(mean_abs_shap, feature_names, top_n=10)
     }
 
-# 3) min-max scale
 rmin, rmax = min(raw_risks), max(raw_risks)
 def scale(r): return (r - rmin) / (rmax - rmin) if rmax != rmin else 0.0
 
 for row in rows:
     row.append(scale(row[3]))        # append scaled risk
 
-# 4) dashboard
+# dashboard
 cols = ["County", "Voters", "Avg_P_vote", "Risk_raw", "Risk_scaled"]
 dash = (pd.DataFrame(rows, columns=cols)
           .sort_values("Risk_scaled", ascending=False)
