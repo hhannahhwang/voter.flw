@@ -1,55 +1,69 @@
-"""AIhacks: A Flower / PyTorch app."""
+import flwr as fl
+import glob
+import os
+from task import build_xy, make_model
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import accuracy_score
 
-import torch
+from sklearn.utils import shuffle
+import numpy as np
 
-from flwr.client import ClientApp, NumPyClient
-from flwr.common import Context
-from aihacks.task import Net, get_weights, load_data, set_weights, test, train
+class SklearnClient(fl.client.NumPyClient):
+    def __init__(self, model, X_train, X_test, y_train, y_test):
+        self.model = model
+        self.X_train = X_train
+        self.X_test = X_test
+        self.y_train = y_train
+        self.y_test = y_test
+
+        # 💡 Force model initialization
+        dummy_X, dummy_y = shuffle(X_train[:10], y_train[:10], random_state=0)
+        self.model.partial_fit(dummy_X, dummy_y, classes=np.unique(y_train))
 
 
-# Define Flower Client and client_fn
-class FlowerClient(NumPyClient):
-    def __init__(self, net, trainloader, valloader, local_epochs):
-        self.net = net
-        self.trainloader = trainloader
-        self.valloader = valloader
-        self.local_epochs = local_epochs
-        self.device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
-        self.net.to(self.device)
+    def get_parameters(self, config):
+        # Return *all* weight matrices + biases as flat NumPy arrays
+        coefs = [w.astype(np.float32) for w in self.model.coefs_]
+        intercepts = [b.astype(np.float32) for b in self.model.intercepts_]
+        return coefs + intercepts
+
+    def set_parameters(self, parameters):
+        n_layers = len(self.model.coefs_)
+        self.model.coefs_ = parameters[:n_layers]
+        self.model.intercepts_ = parameters[n_layers:]
+
 
     def fit(self, parameters, config):
-        set_weights(self.net, parameters)
-        train_loss = train(
-            self.net,
-            self.trainloader,
-            self.local_epochs,
-            self.device,
-        )
-        return (
-            get_weights(self.net),
-            len(self.trainloader.dataset),
-            {"train_loss": train_loss},
-        )
+        self.set_parameters(parameters)
+        self.model.partial_fit(self.X_train, self.y_train, classes=[0, 1])
+        return self.get_parameters(config), len(self.X_train), {}
+
 
     def evaluate(self, parameters, config):
-        set_weights(self.net, parameters)
-        loss, accuracy = test(self.net, self.valloader, self.device)
-        return loss, len(self.valloader.dataset), {"accuracy": accuracy}
+        self.set_parameters(parameters)
+        preds = self.model.predict(self.X_test)
+        acc = accuracy_score(self.y_test, preds)
+        return float(1 - acc), len(self.X_test), {"accuracy": float(acc)}
 
 
-def client_fn(context: Context):
-    # Load model and data
-    net = Net()
-    partition_id = context.node_config["partition-id"]
-    num_partitions = context.node_config["num-partitions"]
-    trainloader, valloader = load_data(partition_id, num_partitions)
-    local_epochs = context.run_config["local-epochs"]
+def start_client(csv_path):
+    X, y = build_xy(csv_path)
+    X_train, X_test, y_train, y_test = train_test_split(X, y, stratify=y, test_size=0.25, random_state=42)
+    model = make_model(X.shape[1])
+    client = SklearnClient(model, X_train, X_test, y_train, y_test)
+    fl.client.start_numpy_client(server_address="localhost:8080", client=client)
 
-    # Return Client instance
-    return FlowerClient(net, trainloader, valloader, local_epochs).to_client()
+import multiprocessing
 
+if __name__ == "__main__":
+    csv_files = glob.glob("result/*.csv")
 
-# Flower ClientApp
-app = ClientApp(
-    client_fn,
-)
+    processes = []
+    for file_path in csv_files:
+        p = multiprocessing.Process(target=start_client, args=(file_path,))
+        p.start()
+        processes.append(p)
+
+    for p in processes:
+        p.join()
+
