@@ -1,8 +1,7 @@
-1. ✅ Low Risk
+1. ⚠️ High Risk
 
-* ✅ Low:  Voter turnout features weakly correlate with suppression.
-* ⚠️ Medium:  Poll worker intimidation is documented, needs monitoring.
-* ⚠️ Medium: Underpaid election officials may lead to administrative issues.
-* ⚠️ Medium:  Partisan poll observer increase may cause voter intimidation.
-* ⚠️ Medium:  Gerrymandering allegations suggest potential for disenfranchisement.
+* ⚠️ High:  Aggressive poll watching, potentially targeting minority voters.
+* ⚠️ Medium:  Underpaid election directors lead to inexperienced staff.
+* ⚠️ Medium:  Racial gerrymandering dilutes Black voting power.
+* ⚠️ Medium: Underfunded counties experience lower voter turnout.
 
